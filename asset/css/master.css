@@ -1,0 +1,60 @@
+body{
+  background-color: #f0f0f0;
+}
+
+.body-prop{
+  margin: 0 auto;
+  width: 800px;
+}
+
+/**/
+.nav-prop-header{
+  padding: 10px;
+  background: #000;
+}
+
+.nav-prop-header a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.nav-prop{
+  width: 200px;
+  float: left;
+}
+
+.nav-prop ul li button{
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav-prop ul li{
+  list-style: none;
+}
+
+.nav-prop ul{
+  margin: 0;
+  padding: 0;
+}
+
+.content-area{
+  width: 600px;
+  background-color: linen;
+  color: red;
+  margin-left: 200px;
+  height: 250px;
+}
+
+.footer-wrapper{
+  background: #000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer-wrapper button{
+  margin-left: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
